@@ -19,7 +19,7 @@
 - **Version Control**: Git, GitHub
 
 ### 🌟 Ongoing Projects:  
-- Coming soon!
+- ML Applications for banks
 
 ### ⚡ Fun fact:  
 - I’m always on the hunt for the best coffee spots

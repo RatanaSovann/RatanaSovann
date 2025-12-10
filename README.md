@@ -4,7 +4,7 @@
 🌏 Passionate about leveraging data science to make a positive impact. Trying to climb the learning curve one pinky at a time.
 
 ### 🔭 I’m currently working on:  
-- Building machine learning models (NBA draft predictions, Sales forecasts, Anomoaly detection and more).  
+- Building a Data Analyst AI agent that can generates report & visualization with just your voice.
 - Developing scalable applications with **FastAPI** and deploying with **Docker**.  
 - Streamlit apps for data visualization and user interaction.  
 

@@ -1,7 +1,9 @@
 ## 👋 Hi, I'm Ratana Sovann!
 
 🎓 Recent graduate of Master of Data Science and Innovation (UTS, Sydney)
+
 🎓 Bachelor of Commerce (Economics & Finance) – University of Melbourne
+
 🌏 Passionate about building data-driven systems that turn messy data into meaningful insights — climbing the learning curve one pinky at a time.
 
 ### 🔭 I’m currently working on:  
